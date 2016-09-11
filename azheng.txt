@@ -4,3 +4,5 @@ fast forward模式
 hello azheng
 git push origin master:master 
 git push origin new_brance:master
+git config --global color.ui true
+
