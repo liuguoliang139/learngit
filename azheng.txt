@@ -3,3 +3,4 @@ fast forward模式
 这行信息是为了验证 commit amend
 hello azheng
 git push origin master:master 
+git push origin new_brance:master
