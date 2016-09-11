@@ -2,3 +2,4 @@ fast forward模式
 验证 fast forward, -no-ff ,要求git merge即使在fast forward也要产生一个commit, 而之前的fast forward则是直接合并, 看不出之前branch的任何记录, 这对以后代码特别有用.
 这行信息是为了验证 commit amend
 hello azheng
+git push origin master:master 
